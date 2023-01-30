@@ -1,0 +1,88 @@
+header{border: 10px solid;
+    color: white;
+    align-items: center;
+    height: 60px;
+    justify-content:space-around;
+    display: flex;}
+
+header a{text-decoration: none;
+    color: white;
+    font-size: 25px;}
+
+h1  {justify-content:center; 
+  height: 40px;
+  color: white ;
+  display: flex;}
+
+footer{justify-content: center;
+    height: 40px;
+    color: white;
+    display: flex;
+    font-size: 20px;}
+
+main{justify-content: center;
+    display: flex;
+    color: grey ;
+    font-size: 25px;
+
+}
+#shym {
+    text-decoration: none;
+     color: blue;
+
+
+}
+#MUIT {
+     text-decoration: none;
+     color: blue;
+    
+
+
+}
+
+div { justify-content:flex-end;
+    display: flex;
+    color: grey;
+    height: 30px;
+    font-size: 30px;}
+
+
+
+#a3{
+    justify-content: ;
+    display: flex;
+    font-size: 20px;
+    height: 40px;
+    text-decoration: none;
+    color: #7524B1;}
+
+#logo1 {
+    width: 40px;
+    height: 40px;
+}
+
+main p {
+
+}
+main img {
+    padding: 5%;
+    height: 200;
+    
+
+}
+#inst {
+    text-decoration: none;
+    color: purple;
+
+
+
+}
+#moto2{
+    height: : 100px;
+}
+#moto3 {
+
+   height : 100px;
+
+
+}
